@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sboy99
-- 👀 I’m interested in ... programing and coding
-- 🌱 I’m currently learning ... advanced data structures
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Its' a pleasure to see you here.I cordially welcome you.
+I'm Sagar Bera.I'm a learner.
+Currently I'm learning backend development with Node JS as well as React Js as a frontnd. 
 
 <!---
 sboy99/sboy99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
