@@ -1,6 +1,6 @@
+### WELCOME! & Thank You
 - Its' a pleasure to see you here.I cordially welcome you.
-<br/>
-- I'm `Sagar Bera`.I'm a learner.<br/>
+- I'm Sagar Bera.I'm a learner.
 - Currently I'm learning backend development with Node JS as well as React Js as a frontnd. 
 
 <!---
