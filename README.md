@@ -1,5 +1,5 @@
 <p width="100%" align="center">
-<img align="center" width="75%" style="display:flex;justify-content: center; align-items:center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
+<img align="center" width="100%" style="display:flex;justify-content: center; align-items:center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sagar Bera</h1>
