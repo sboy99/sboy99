@@ -41,9 +41,11 @@
 </p>
 
 ## 📈 Stats
-
+<p align="center" style="border-radius: 30px;overflow: hidden;">	
 <img src="https://activity-graph.herokuapp.com/graph?username=sboy99&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-<p align="center">	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sboy99&show_icons=true&theme=onedark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sboy99&theme=onedark" />
+  </p>	
+<p align="center" >	
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sboy99&show_icons=true&theme=onedark" /> 
+  &nbsp
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sboy99&theme=onedark" />
 </p>
