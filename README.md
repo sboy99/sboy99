@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sagar Bera</h1>
-<h3 align="center">A passionate fullstack(MERN) developer from India. I'm a open-source enthusiastic. Creative guy love to learn new technologies and build with "💙"</h3>
+<h3 align="center">A passionate fullstack(MERN) developer from India. An open-source enthusiastic. Creative guy love to learn new technologies and enginify with "💙"</h3>
 
 - 🤹 I’m currently working on [Amar Dokan (Ecommerce Shop using MERN stack)](https://github.com/sboy99/Amar-Dokan-test)
 
