@@ -4,7 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Sagar Bera</h1>
 <h3 align="center">A passionate fullstack(MERN) developer from India. An open-source enthusiastic. Creative guy love to learn new technologies and enginify with</h3>
-<p align="center" style="font-size: 1.8em;">💙</p>
+<p align="center" style="font-size: 1.8em;">
+ <!--  <h1 width="500" height="500">💙</h1> -->
+ <img src="https://cliply.co/wp-content/uploads/2019/07/391907100_HEART_400px.gif" alt="💙" width="100" height="100"/>
+</p>
 
 - 🤹 I’m currently working on [Amar Dokan (Ecommerce Shop using MERN stack)](https://github.com/sboy99/Amar-Dokan-test)
 
