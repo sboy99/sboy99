@@ -15,7 +15,12 @@
 
 - 💬 Ask me about **React, Rest-API, MonogoDB Atlas**
 
-<h3 align="left">Connect with me:</h3>
+## 🌊 Activity
+<p align="center" style="border-radius: 30px;overflow: hidden;">	
+<img src="https://activity-graph.herokuapp.com/graph?username=sboy99&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+  </p>	
+
+## 📎 Connect with me:
 <p align="left">
 <a href="https://www.hackerrank.com/shadowboy191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadowboy191" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagar-bera-5264b9214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-bera-5264b9214" height="30" width="40" /></a>
@@ -45,9 +50,6 @@
 </p>
 
 ## 📈 Stats
-<p align="center" style="border-radius: 30px;overflow: hidden;">	
-<img src="https://activity-graph.herokuapp.com/graph?username=sboy99&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-  </p>	
 <p align="center" >	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sboy99&show_icons=true&theme=onedark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sboy99&theme=onedark" />
