@@ -7,8 +7,8 @@
 
 ## 🌊 Activity
 
-<p align="center" width="100%">	
-<img style="border-radius:10px" src="https://activity-graph.herokuapp.com/graph?username=sboy99&bg_color=0D1117&color=a2e635&line=a2e635&point=a2e635&area=true&area_color=a2e635&hide_border=true">
+<p align="center" width="100%" style="border-radius:8px;padding:12px;background-color:#282C34;" >	
+<img src="https://activity-graph.herokuapp.com/graph?username=sboy99&bg_color=282C34&color=7BC179&line=7BC179&point=a2e635&area=true&area_color=7BC179&hide_border=true">
   </p>
 
 - 🤹 I’m currently working on [Amar Dokan (Ecommerce Shop using MERN stack)](https://github.com/sboy99/Amar-Dokan-test)
