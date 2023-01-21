@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Sagar Bera</h1>
-<h3 align="center">Passionate Full-Stack Web Application developer from India 🇮🇳 Love to insert Cogs. Reading, Learning, Producing, Contributing</h3>
+# Hey 👋, I'm Sagar Bera
+### Passionate Full-Stack Web Application developer from India 🇮🇳 generally enjoys conversation using Javascript or Typescript with Computer, Loves to insert Cogs in Softwares.Main mantras: Reading, Learning, Producing, Contributing
 
 ## 🌊 Activity
 
@@ -7,9 +7,9 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sboy99&bg_color=282C34&color=7BC179&line=7BC179&point=a2e635&area=true&area_color=7BC179&hide_border=true&radius=10&custom_title=My%20Contribution%20on%20Github">
   </p>
 
-- 🤹 I’m currently working on [**Amar Dokan**](https://github.com/sboy99/Amar-Dokan-test)
+- 🤹 I’m currently fostering [**Git Opener**](https://github.com/pbclife/gitopener.vercel.app)
 
-- 🧘 I’m currently learning **MEARN Stack, Linux Administration, Open-Source**
+- 🧘 I’m currently learning **MEARN Stack, Open-Source, TypeScript**
 
 - 💬 Ask me about **React, Rest-API, MonogoDB**
 
@@ -42,7 +42,6 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
-
 </p>
 
 ## 📈 Stats
