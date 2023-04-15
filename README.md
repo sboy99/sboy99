@@ -51,7 +51,6 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sboy99&theme=onedark" />
 </p>
 
-
 <p width="100%" align="center">
 <img align="center" width="100%" style="display:flex;justify-content: center; align-items:center; border-radius:10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 </p>
