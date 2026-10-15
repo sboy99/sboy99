@@ -8,7 +8,7 @@
 
 </div>
 
-### yo, i'm sagar 🪐
+### Yo, I'm Sagar 🪐
 
 I keep the lights on for **50,000+ creators**, and occasionally turn them off by accident and back on again before anyone notices.
 
@@ -16,20 +16,20 @@ Backend + DevOps at **Scribble Network**. I walked in as the first backend hire,
 
 ```console
 $ whoami
-sagar bera, backend & devops, bengaluru 🇮🇳
+sagar bera, backend & devops, 127.0.0.1 🇮🇳
 
 $ cat /etc/vibe
-ship fast · break nothing (mostly) · migrate fearlessly · log everything
+ship fast · break nothing (mostly) · adapt fearlessly · log everything
 
 $ uptime
-writing code since b.sc · m.sc in cs (8.63 cgpa) · 3+ yrs in the prod trenches
+3.5+ yrs in the prod trenches
 ```
 
 <br>
 
-## 🎧 the hits
+## 🎧 The Hits
 
-**[Kili AI](https://trykili.ai)** — ads that show up only while your AI agent is "thinking", and pay you back for the tokens. Devs keep **50% of revenue**, paid in stablecoins or Stripe. Shipped the whole thing (public API, internal server, two dev packages, the UI) in **4 days**. **250+ devs** use it daily.
+**[Kili AI](https://trykili.ai)** — ads that show up only while your AI agent is "thinking", and pay you back for the tokens. Devs keep **50% of revenue**, paid in stablecoins or Stripe. Shipped the whole thing (public API, internal server, two dev packages) in **4 days**.
 
 **[Scribble Brands](https://brands.scribble.network/)** — makes ChatGPT, Gemini, Perplexity, Copilot and Grok talk about your brand. One client went from **2% → 20%** AI citation share in 3 months. Landed in Product Hunt's **Top 3 AI Products of the Week**.
 
@@ -39,7 +39,7 @@ writing code since b.sc · m.sc in cs (8.63 cgpa) · 3+ yrs in the prod trenches
 
 <br>
 
-## 🔥 war stories
+## 🔥 War Stories
 
 - 🐘 **Mongo → Postgres.** Moved the core data over so the schema finally made sense, queries got faster and new features stopped fighting back.
 - ☁️ **AWS → GCP.** Moved production between clouds with the CTO to save money, and the product stayed live the whole time.
@@ -54,7 +54,7 @@ writing code since b.sc · m.sc in cs (8.63 cgpa) · 3+ yrs in the prod trenches
 
 <br>
 
-## 🧪 periodic table of things i break & fix
+## 🧪 Periodic table of things I Break & Fix
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
@@ -64,14 +64,14 @@ writing code since b.sc · m.sc in cs (8.63 cgpa) · 3+ yrs in the prod trenches
 
 <br>
 
-## 🌱 open source & side quests
+## 🌱 Open Source & Side Quests
 
 - 🧩 Contributed to [Mintlify components](https://github.com/mintlify/components) and [WeMakeDevs](https://github.com/WeMakeDevs/wemakedevs-archive).
 - ▶️ Earned a YouTube **Silver Play Button** on [@ShadowBoy](https://www.youtube.com/@ShadowBoy). Yes, really.
+- 🎤 Hosted the MaHa Hackathon. Someone has to hand out the pizza and the deadlines.
 - 🏅 Certifications:
   - Postman Student Expert
-  - Triplebyte Proficient JavaScript Engineer
-  - HackerRank CSS
+  - HackerRank 5 Star
 - 🗣️ Speaks English, Hindi and Bengali, plus fluent `SELECT * FROM`.
 
 <br>
