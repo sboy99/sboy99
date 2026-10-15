@@ -74,14 +74,6 @@ $ uptime
   - HackerRank 5 Star
 - 🗣️ Speaks English, Hindi and Bengali, plus fluent `SELECT * FROM`.
 
-<br>
-
-## 📡 say hi
-
-[sboy99.xyz](https://www.sboy99.xyz) · [resume](https://www.sboy99.xyz/resume) · [linkedin](https://www.linkedin.com/in/sagar-bera) · [x / @0xSagar_](https://x.com/0xSagar_) · [contact.sagarbera@gmail.com](mailto:contact.sagarbera@gmail.com)
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/waves-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/waves-light.svg">
