@@ -1,0 +1,423 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="539" viewBox="0 0 900 539">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:12px;white-space:pre}
+.b{fill:#d0d7de}.d{fill:#656d76}.t{fill:#1f2328}
+.lang{fill:#9a6700}.back{fill:#cf222e}.data{fill:#0969da}.infra{fill:#1a7f37}.front{fill:#8250df}.ai{fill:#bc4c00}
+.sym{font-size:24px;font-weight:700;animation:glow 4.2s ease-in-out infinite}
+@keyframes glow{0%,70%,100%{opacity:.55}35%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.sym{animation:none;opacity:1}}
+</style>
+<rect width="900" height="539" rx="12" fill="#f6f8fa"/>
+<text class="b" x="22.0" y="34.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="22.0" y="49.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="64.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="79.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="94.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="109.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="36.4" y="49.0" xml:space="preserve">01</text>
+<text class="lang" x="101.2" y="49.0" xml:space="preserve">•</text>
+<text class="sym lang" x="36.4" y="78.0" xml:space="preserve" style="animation-delay:0.00s">Ts</text>
+<text class="t" x="36.4" y="94.0" xml:space="preserve">typescript</text>
+<text class="b" x="130.0" y="34.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="130.0" y="49.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="64.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="79.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="94.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="109.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="144.4" y="49.0" xml:space="preserve">02</text>
+<text class="lang" x="209.2" y="49.0" xml:space="preserve">•</text>
+<text class="sym lang" x="144.4" y="78.0" xml:space="preserve" style="animation-delay:3.98s">Js</text>
+<text class="t" x="144.4" y="94.0" xml:space="preserve">javascript</text>
+<text class="b" x="238.0" y="34.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="238.0" y="49.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="64.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="79.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="94.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="109.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="252.4" y="49.0" xml:space="preserve">03</text>
+<text class="lang" x="317.2" y="49.0" xml:space="preserve">•</text>
+<text class="sym lang" x="252.4" y="78.0" xml:space="preserve" style="animation-delay:3.76s">Go</text>
+<text class="t" x="252.4" y="94.0" xml:space="preserve">golang</text>
+<text class="b" x="346.0" y="34.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="346.0" y="49.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="64.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="79.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="94.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="109.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="360.4" y="49.0" xml:space="preserve">04</text>
+<text class="lang" x="425.2" y="49.0" xml:space="preserve">•</text>
+<text class="sym lang" x="360.4" y="78.0" xml:space="preserve" style="animation-delay:3.54s">Py</text>
+<text class="t" x="360.4" y="94.0" xml:space="preserve">python</text>
+<text class="b" x="454.0" y="34.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="454.0" y="49.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="64.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="79.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="94.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="109.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="468.4" y="49.0" xml:space="preserve">05</text>
+<text class="lang" x="533.2" y="49.0" xml:space="preserve">•</text>
+<text class="sym lang" x="468.4" y="78.0" xml:space="preserve" style="animation-delay:3.32s">Sl</text>
+<text class="t" x="468.4" y="94.0" xml:space="preserve">solidity</text>
+<text class="b" x="562.0" y="34.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="562.0" y="49.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="64.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="79.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="94.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="109.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="576.4" y="49.0" xml:space="preserve">06</text>
+<text class="lang" x="641.2" y="49.0" xml:space="preserve">•</text>
+<text class="sym lang" x="576.4" y="78.0" xml:space="preserve" style="animation-delay:3.10s">Mv</text>
+<text class="t" x="576.4" y="94.0" xml:space="preserve">move</text>
+<text class="b" x="670.0" y="34.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="670.0" y="49.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="64.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="79.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="94.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="109.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="684.4" y="49.0" xml:space="preserve">07</text>
+<text class="lang" x="749.2" y="49.0" xml:space="preserve">•</text>
+<text class="sym lang" x="684.4" y="78.0" xml:space="preserve" style="animation-delay:2.88s">Sq</text>
+<text class="t" x="684.4" y="94.0" xml:space="preserve">sql</text>
+<text class="b" x="778.0" y="34.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="778.0" y="49.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="64.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="79.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="94.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="109.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="792.4" y="49.0" xml:space="preserve">08</text>
+<text class="back" x="857.2" y="49.0" xml:space="preserve">•</text>
+<text class="sym back" x="792.4" y="78.0" xml:space="preserve" style="animation-delay:2.66s">Nd</text>
+<text class="t" x="792.4" y="94.0" xml:space="preserve">node.js</text>
+<text class="b" x="22.0" y="124.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="22.0" y="139.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="154.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="169.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="184.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="199.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="36.4" y="139.0" xml:space="preserve">09</text>
+<text class="back" x="101.2" y="139.0" xml:space="preserve">•</text>
+<text class="sym back" x="36.4" y="168.0" xml:space="preserve" style="animation-delay:3.98s">Ns</text>
+<text class="t" x="36.4" y="184.0" xml:space="preserve">nestjs</text>
+<text class="b" x="130.0" y="124.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="130.0" y="139.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="154.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="169.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="184.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="199.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="144.4" y="139.0" xml:space="preserve">10</text>
+<text class="back" x="209.2" y="139.0" xml:space="preserve">•</text>
+<text class="sym back" x="144.4" y="168.0" xml:space="preserve" style="animation-delay:3.76s">Ex</text>
+<text class="t" x="144.4" y="184.0" xml:space="preserve">express</text>
+<text class="b" x="238.0" y="124.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="238.0" y="139.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="154.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="169.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="184.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="199.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="252.4" y="139.0" xml:space="preserve">11</text>
+<text class="back" x="317.2" y="139.0" xml:space="preserve">•</text>
+<text class="sym back" x="252.4" y="168.0" xml:space="preserve" style="animation-delay:3.54s">Gn</text>
+<text class="t" x="252.4" y="184.0" xml:space="preserve">gin</text>
+<text class="b" x="346.0" y="124.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="346.0" y="139.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="154.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="169.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="184.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="199.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="360.4" y="139.0" xml:space="preserve">12</text>
+<text class="back" x="425.2" y="139.0" xml:space="preserve">•</text>
+<text class="sym back" x="360.4" y="168.0" xml:space="preserve" style="animation-delay:3.32s">Dz</text>
+<text class="t" x="360.4" y="184.0" xml:space="preserve">drizzle</text>
+<text class="b" x="454.0" y="124.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="454.0" y="139.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="154.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="169.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="184.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="199.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="468.4" y="139.0" xml:space="preserve">13</text>
+<text class="back" x="533.2" y="139.0" xml:space="preserve">•</text>
+<text class="sym back" x="468.4" y="168.0" xml:space="preserve" style="animation-delay:3.10s">Pz</text>
+<text class="t" x="468.4" y="184.0" xml:space="preserve">prisma</text>
+<text class="b" x="562.0" y="124.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="562.0" y="139.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="154.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="169.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="184.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="199.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="576.4" y="139.0" xml:space="preserve">14</text>
+<text class="back" x="641.2" y="139.0" xml:space="preserve">•</text>
+<text class="sym back" x="576.4" y="168.0" xml:space="preserve" style="animation-delay:2.88s">To</text>
+<text class="t" x="576.4" y="184.0" xml:space="preserve">typeorm</text>
+<text class="b" x="670.0" y="124.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="670.0" y="139.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="154.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="169.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="184.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="199.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="684.4" y="139.0" xml:space="preserve">15</text>
+<text class="back" x="749.2" y="139.0" xml:space="preserve">•</text>
+<text class="sym back" x="684.4" y="168.0" xml:space="preserve" style="animation-delay:2.66s">Bq</text>
+<text class="t" x="684.4" y="184.0" xml:space="preserve">bullmq</text>
+<text class="b" x="778.0" y="124.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="778.0" y="139.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="154.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="169.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="184.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="199.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="792.4" y="139.0" xml:space="preserve">16</text>
+<text class="back" x="857.2" y="139.0" xml:space="preserve">•</text>
+<text class="sym back" x="792.4" y="168.0" xml:space="preserve" style="animation-delay:2.44s">Rb</text>
+<text class="t" x="792.4" y="184.0" xml:space="preserve">rabbitmq</text>
+<text class="b" x="22.0" y="214.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="22.0" y="229.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="244.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="259.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="274.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="289.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="36.4" y="229.0" xml:space="preserve">17</text>
+<text class="data" x="101.2" y="229.0" xml:space="preserve">•</text>
+<text class="sym data" x="36.4" y="258.0" xml:space="preserve" style="animation-delay:3.76s">Pg</text>
+<text class="t" x="36.4" y="274.0" xml:space="preserve">postgresql</text>
+<text class="b" x="130.0" y="214.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="130.0" y="229.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="244.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="259.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="274.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="289.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="144.4" y="229.0" xml:space="preserve">18</text>
+<text class="data" x="209.2" y="229.0" xml:space="preserve">•</text>
+<text class="sym data" x="144.4" y="258.0" xml:space="preserve" style="animation-delay:3.54s">Rd</text>
+<text class="t" x="144.4" y="274.0" xml:space="preserve">redis</text>
+<text class="b" x="238.0" y="214.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="238.0" y="229.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="244.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="259.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="274.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="289.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="252.4" y="229.0" xml:space="preserve">19</text>
+<text class="data" x="317.2" y="229.0" xml:space="preserve">•</text>
+<text class="sym data" x="252.4" y="258.0" xml:space="preserve" style="animation-delay:3.32s">Mg</text>
+<text class="t" x="252.4" y="274.0" xml:space="preserve">mongodb</text>
+<text class="b" x="346.0" y="214.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="346.0" y="229.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="244.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="259.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="274.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="289.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="360.4" y="229.0" xml:space="preserve">20</text>
+<text class="data" x="425.2" y="229.0" xml:space="preserve">•</text>
+<text class="sym data" x="360.4" y="258.0" xml:space="preserve" style="animation-delay:3.10s">My</text>
+<text class="t" x="360.4" y="274.0" xml:space="preserve">mysql</text>
+<text class="b" x="454.0" y="214.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="454.0" y="229.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="244.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="259.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="274.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="289.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="468.4" y="229.0" xml:space="preserve">21</text>
+<text class="data" x="533.2" y="229.0" xml:space="preserve">•</text>
+<text class="sym data" x="468.4" y="258.0" xml:space="preserve" style="animation-delay:2.88s">Sb</text>
+<text class="t" x="468.4" y="274.0" xml:space="preserve">supabase</text>
+<text class="b" x="562.0" y="214.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="562.0" y="229.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="244.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="259.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="274.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="289.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="576.4" y="229.0" xml:space="preserve">22</text>
+<text class="data" x="641.2" y="229.0" xml:space="preserve">•</text>
+<text class="sym data" x="576.4" y="258.0" xml:space="preserve" style="animation-delay:2.66s">Lt</text>
+<text class="t" x="576.4" y="274.0" xml:space="preserve">sqlite</text>
+<text class="b" x="670.0" y="214.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="670.0" y="229.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="244.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="259.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="274.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="289.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="684.4" y="229.0" xml:space="preserve">23</text>
+<text class="infra" x="749.2" y="229.0" xml:space="preserve">•</text>
+<text class="sym infra" x="684.4" y="258.0" xml:space="preserve" style="animation-delay:2.44s">Dk</text>
+<text class="t" x="684.4" y="274.0" xml:space="preserve">docker</text>
+<text class="b" x="778.0" y="214.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="778.0" y="229.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="244.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="259.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="274.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="289.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="792.4" y="229.0" xml:space="preserve">24</text>
+<text class="infra" x="857.2" y="229.0" xml:space="preserve">•</text>
+<text class="sym infra" x="792.4" y="258.0" xml:space="preserve" style="animation-delay:2.22s">K8</text>
+<text class="t" x="792.4" y="274.0" xml:space="preserve">kubernetes</text>
+<text class="b" x="22.0" y="304.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="22.0" y="319.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="334.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="349.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="364.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="379.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="36.4" y="319.0" xml:space="preserve">25</text>
+<text class="infra" x="101.2" y="319.0" xml:space="preserve">•</text>
+<text class="sym infra" x="36.4" y="348.0" xml:space="preserve" style="animation-delay:3.54s">Hm</text>
+<text class="t" x="36.4" y="364.0" xml:space="preserve">helm</text>
+<text class="b" x="130.0" y="304.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="130.0" y="319.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="334.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="349.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="364.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="379.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="144.4" y="319.0" xml:space="preserve">26</text>
+<text class="infra" x="209.2" y="319.0" xml:space="preserve">•</text>
+<text class="sym infra" x="144.4" y="348.0" xml:space="preserve" style="animation-delay:3.32s">Tf</text>
+<text class="t" x="144.4" y="364.0" xml:space="preserve">terraform</text>
+<text class="b" x="238.0" y="304.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="238.0" y="319.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="334.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="349.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="364.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="379.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="252.4" y="319.0" xml:space="preserve">27</text>
+<text class="infra" x="317.2" y="319.0" xml:space="preserve">•</text>
+<text class="sym infra" x="252.4" y="348.0" xml:space="preserve" style="animation-delay:3.10s">Ga</text>
+<text class="t" x="252.4" y="364.0" xml:space="preserve">gh actions</text>
+<text class="b" x="346.0" y="304.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="346.0" y="319.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="334.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="349.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="364.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="379.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="360.4" y="319.0" xml:space="preserve">28</text>
+<text class="infra" x="425.2" y="319.0" xml:space="preserve">•</text>
+<text class="sym infra" x="360.4" y="348.0" xml:space="preserve" style="animation-delay:2.88s">Gc</text>
+<text class="t" x="360.4" y="364.0" xml:space="preserve">gcp</text>
+<text class="b" x="454.0" y="304.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="454.0" y="319.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="334.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="349.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="364.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="379.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="468.4" y="319.0" xml:space="preserve">29</text>
+<text class="infra" x="533.2" y="319.0" xml:space="preserve">•</text>
+<text class="sym infra" x="468.4" y="348.0" xml:space="preserve" style="animation-delay:2.66s">Aw</text>
+<text class="t" x="468.4" y="364.0" xml:space="preserve">aws</text>
+<text class="b" x="562.0" y="304.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="562.0" y="319.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="334.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="349.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="364.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="379.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="576.4" y="319.0" xml:space="preserve">30</text>
+<text class="infra" x="641.2" y="319.0" xml:space="preserve">•</text>
+<text class="sym infra" x="576.4" y="348.0" xml:space="preserve" style="animation-delay:2.44s">Ng</text>
+<text class="t" x="576.4" y="364.0" xml:space="preserve">nginx</text>
+<text class="b" x="670.0" y="304.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="670.0" y="319.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="334.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="349.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="364.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="379.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="684.4" y="319.0" xml:space="preserve">31</text>
+<text class="infra" x="749.2" y="319.0" xml:space="preserve">•</text>
+<text class="sym infra" x="684.4" y="348.0" xml:space="preserve" style="animation-delay:2.22s">Gf</text>
+<text class="t" x="684.4" y="364.0" xml:space="preserve">grafana</text>
+<text class="b" x="778.0" y="304.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="778.0" y="319.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="334.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="349.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="364.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="379.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="792.4" y="319.0" xml:space="preserve">32</text>
+<text class="infra" x="857.2" y="319.0" xml:space="preserve">•</text>
+<text class="sym infra" x="792.4" y="348.0" xml:space="preserve" style="animation-delay:2.00s">Lk</text>
+<text class="t" x="792.4" y="364.0" xml:space="preserve">loki</text>
+<text class="b" x="22.0" y="394.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="22.0" y="409.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="424.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="439.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="454.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="22.0" y="469.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="36.4" y="409.0" xml:space="preserve">33</text>
+<text class="front" x="101.2" y="409.0" xml:space="preserve">•</text>
+<text class="sym front" x="36.4" y="438.0" xml:space="preserve" style="animation-delay:3.32s">Re</text>
+<text class="t" x="36.4" y="454.0" xml:space="preserve">react</text>
+<text class="b" x="130.0" y="394.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="130.0" y="409.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="424.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="439.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="454.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="130.0" y="469.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="144.4" y="409.0" xml:space="preserve">34</text>
+<text class="front" x="209.2" y="409.0" xml:space="preserve">•</text>
+<text class="sym front" x="144.4" y="438.0" xml:space="preserve" style="animation-delay:3.10s">Nx</text>
+<text class="t" x="144.4" y="454.0" xml:space="preserve">next.js</text>
+<text class="b" x="238.0" y="394.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="238.0" y="409.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="424.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="439.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="454.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="238.0" y="469.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="252.4" y="409.0" xml:space="preserve">35</text>
+<text class="front" x="317.2" y="409.0" xml:space="preserve">•</text>
+<text class="sym front" x="252.4" y="438.0" xml:space="preserve" style="animation-delay:2.88s">Tw</text>
+<text class="t" x="252.4" y="454.0" xml:space="preserve">tailwind</text>
+<text class="b" x="346.0" y="394.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="346.0" y="409.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="424.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="439.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="454.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="346.0" y="469.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="360.4" y="409.0" xml:space="preserve">36</text>
+<text class="front" x="425.2" y="409.0" xml:space="preserve">•</text>
+<text class="sym front" x="360.4" y="438.0" xml:space="preserve" style="animation-delay:2.66s">Zu</text>
+<text class="t" x="360.4" y="454.0" xml:space="preserve">zustand</text>
+<text class="b" x="454.0" y="394.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="454.0" y="409.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="424.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="439.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="454.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="454.0" y="469.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="468.4" y="409.0" xml:space="preserve">37</text>
+<text class="ai" x="533.2" y="409.0" xml:space="preserve">•</text>
+<text class="sym ai" x="468.4" y="438.0" xml:space="preserve" style="animation-delay:2.44s">Cc</text>
+<text class="t" x="468.4" y="454.0" xml:space="preserve">claude code</text>
+<text class="b" x="562.0" y="394.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="562.0" y="409.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="424.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="439.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="454.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="562.0" y="469.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="576.4" y="409.0" xml:space="preserve">38</text>
+<text class="ai" x="641.2" y="409.0" xml:space="preserve">•</text>
+<text class="sym ai" x="576.4" y="438.0" xml:space="preserve" style="animation-delay:2.22s">Cu</text>
+<text class="t" x="576.4" y="454.0" xml:space="preserve">cursor</text>
+<text class="b" x="670.0" y="394.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="670.0" y="409.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="424.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="439.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="454.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="670.0" y="469.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="684.4" y="409.0" xml:space="preserve">39</text>
+<text class="ai" x="749.2" y="409.0" xml:space="preserve">•</text>
+<text class="sym ai" x="684.4" y="438.0" xml:space="preserve" style="animation-delay:2.00s">Ai</text>
+<text class="t" x="684.4" y="454.0" xml:space="preserve">llm apis</text>
+<text class="b" x="778.0" y="394.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">┌────────────┐</text>
+<text class="b" x="778.0" y="409.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="424.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="439.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="454.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">│            │</text>
+<text class="b" x="778.0" y="469.0" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">└────────────┘</text>
+<text class="d" x="792.4" y="409.0" xml:space="preserve">40</text>
+<text class="ai" x="857.2" y="409.0" xml:space="preserve">•</text>
+<text class="sym ai" x="792.4" y="438.0" xml:space="preserve" style="animation-delay:1.78s">Ye</text>
+<text class="t" x="792.4" y="454.0" xml:space="preserve">shipping</text>
+<text class="lang" x="22.0" y="499.0" xml:space="preserve">■</text>
+<text class="d" x="36.4" y="499.0" xml:space="preserve">languages</text>
+<text class="back" x="122.8" y="499.0" xml:space="preserve">■</text>
+<text class="d" x="137.2" y="499.0" xml:space="preserve">backend</text>
+<text class="data" x="209.2" y="499.0" xml:space="preserve">■</text>
+<text class="d" x="223.6" y="499.0" xml:space="preserve">data</text>
+<text class="infra" x="274.0" y="499.0" xml:space="preserve">■</text>
+<text class="d" x="288.4" y="499.0" xml:space="preserve">infra</text>
+<text class="front" x="346.0" y="499.0" xml:space="preserve">■</text>
+<text class="d" x="360.4" y="499.0" xml:space="preserve">frontend</text>
+<text class="ai" x="439.6" y="499.0" xml:space="preserve">■</text>
+<text class="d" x="454.0" y="499.0" xml:space="preserve">ai &amp; vibes</text>
+</svg>
