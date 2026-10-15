@@ -87,7 +87,3 @@ $ uptime
   <source media="(prefers-color-scheme: light)" srcset="./assets/waves-light.svg">
   <img alt="ASCII ocean waves rolling past, the water written out in words from Sagar's stack" src="./assets/waves-dark.svg" width="100%">
 </picture>
-
-<div align="center">
-<sub>everything moving on this page is plain svg. no js, no gifs, just vibes and a tiny ray tracer.</sub>
-</div>
