@@ -8,66 +8,86 @@
 
 </div>
 
-### Hi, I'm Sagar.
+### yo, i'm sagar 🪐
 
-I build and run the systems behind products used by **50,000+ creators**.
+I keep the lights on for **50,000+ creators**, and occasionally turn them off by accident and back on again before anyone notices.
 
-I'm a backend and DevOps engineer at [Scribble Network](https://scribble.network), where I joined as the first backend hire. I work closely with the CTO and own backend and infrastructure end to end: NestJS APIs, PostgreSQL schemas, and the Docker, CI/CD and cloud setup that keeps them running. Along the way I moved our core data from MongoDB to PostgreSQL. Before that, at BuidlersTribe, I rebuilt a Drupal site on MERN and sped up feature delivery by 30%.
+Backend + DevOps at **Scribble Network**. I walked in as the first backend hire, sat next to the CTO and ended up owning basically everything with a port number: the APIs, the databases, the pipelines, the clouds (plural, we moved house once). Before that I took a creaky Drupal site at **BuidlersTribe**, rebuilt it on MERN, and features started shipping **30% faster**.
 
-```text
-role      backend & devops @ scribble network
-based in  bengaluru, india
-focus     apis · databases · infra · ci/cd
+```console
+$ whoami
+sagar bera, backend & devops, bengaluru 🇮🇳
+
+$ cat /etc/vibe
+ship fast · break nothing (mostly) · migrate fearlessly · log everything
+
+$ uptime
+writing code since b.sc · m.sc in cs (8.63 cgpa) · 3+ yrs in the prod trenches
 ```
 
 <br>
 
-## Featured work
+## 🎧 the hits
 
-#### [Kili AI](https://trykili.ai) · 2026
+**[Kili AI](https://trykili.ai)** — ads that show up only while your AI agent is "thinking", and pay you back for the tokens. Devs keep **50% of revenue**, paid in stablecoins or Stripe. Shipped the whole thing (public API, internal server, two dev packages, the UI) in **4 days**. **250+ devs** use it daily.
 
-An ad marketplace that pays developers back their inference costs by showing ads while an AI agent is "thinking". Developers keep 50% of net ad revenue, paid in stablecoins or through Stripe. Ads are intent-matched and only appear during natural wait states, never over the work. One command installs it for Claude Code and AI apps, and it has 250+ daily active users.
+**[Scribble Brands](https://brands.scribble.network/)** — makes ChatGPT, Gemini, Perplexity, Copilot and Grok talk about your brand. One client went from **2% → 20%** AI citation share in 3 months. Landed in Product Hunt's **Top 3 AI Products of the Week**.
 
-`TypeScript` `Next.js` `NestJS` `PostgreSQL` `DrizzleORM` `Redis` `Stripe` `GCP` `Terraform`
+**[Scribble Creators](https://creators.scribble.network/)** — creators write, brands pay. **50,000+ creators**, **800+ campaigns**, **$500,000+ paid out**.
 
-#### [Scribble Brands](https://brands.scribble.network/) · 2026
-
-An AI visibility platform that tracks how ChatGPT, Gemini, Perplexity, Copilot and Grok cite a brand, then helps it get cited more. It brings citation tracking, competitor benchmarks and a content hub into one dashboard. RocketX grew its AI citation share from **2% → 20%** across 25 priority queries in 3 months, and creator bounties have produced 6,000+ cited pieces.
-
-`TypeScript` `Next.js` `NestJS` `PostgreSQL` `DrizzleORM` `Redis` `Stripe` `BullMQ`
-
-#### [Scribble Creators](https://creators.scribble.network/) · 2025
-
-A campaign platform where creators write for brands and get paid. It has **50,000+ active creators**, 800+ brand campaigns and **$500,000+ paid out**, with a 72% average win rate. Creators submit from X, Reddit, Medium and Substack.
-
-`TypeScript` `Next.js` `NestJS` `PostgreSQL` `TypeORM` `Redis`
-
-#### [GitOpener](https://gitopener.vercel.app/) · 2023 · [source](https://github.com/pbclife/gitopener.vercel.app)
-
-A beginner-friendly open source platform that teaches contributing through live MDX guides, GitHub sign-in and auto-generated contributor profiles.
-
-`TypeScript` `Next.js` `MongoDB` `Tailwind CSS`
-
-→ More on [sboy99.xyz/projects](https://www.sboy99.xyz/projects)
+**[GitOpener](https://gitopener.vercel.app/)** — a friendly on-ramp for your first open source PR, with live guides and GitHub sign-in. Built with zero AI code, back when that was the only way. ([source](https://github.com/pbclife/gitopener.vercel.app))
 
 <br>
 
-## Stack
+## 🔥 war stories
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,postgres,mongodb,redis&perline=7" alt="TypeScript, Node.js, NestJS, Next.js, PostgreSQL, MongoDB, Redis" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,terraform&perline=7" alt="Docker, GCP, Terraform" />
-</p>
+- 🐘 **Mongo → Postgres.** Moved the core data over so the schema finally made sense, queries got faster and new features stopped fighting back.
+- ☁️ **AWS → GCP.** Moved production between clouds with the CTO to save money, and the product stayed live the whole time.
+- 🚨 **3 a.m. outage.** The estimate was 1–2 hours. It was fixed in **5–10 minutes** with Cursor riding shotgun.
+- 🤖 **Robots doing chores.** GitHub Actions ships to prod, while Loki and Grafana watch the logs so I don't have to.
+- 🔐 **Auth from scratch.** Magic links, plus Google and X login.
+- 🪙 **Crypto side quests.**
+  - A Telegram bot that sends crypto to anyone with just their username.
+  - Rabots, one-click DeFi yield for beginners.
+  - Smart contracts in Solidity and Move for prediction markets and auto-trading.
+- 📨 **Microservices** for notifications, webhooks and a crypto payout faucet.
 
 <br>
 
-## Elsewhere
+## 🧪 periodic table of things i break & fix
 
-[sboy99.xyz](https://www.sboy99.xyz) · [resume](https://www.sboy99.xyz/resume) · [linkedin](https://www.linkedin.com/in/sagar-bera) · [x / @0xSagar_](https://x.com/0xSagar_)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img alt="A periodic table of Sagar's stack: languages, backend, data, infra, frontend and AI tools" src="./assets/stack-dark.svg" width="100%">
+</picture>
 
 <br>
+
+## 🌱 open source & side quests
+
+- 🧩 Contributed to [Mintlify components](https://github.com/mintlify/components) and [WeMakeDevs](https://github.com/WeMakeDevs/wemakedevs-archive).
+- ▶️ Earned a YouTube **Silver Play Button** on [@ShadowBoy](https://www.youtube.com/@ShadowBoy). Yes, really.
+- 🏅 Certifications:
+  - Postman Student Expert
+  - Triplebyte Proficient JavaScript Engineer
+  - HackerRank CSS
+- 🗣️ Speaks English, Hindi and Bengali, plus fluent `SELECT * FROM`.
+
+<br>
+
+## 📡 say hi
+
+[sboy99.xyz](https://www.sboy99.xyz) · [resume](https://www.sboy99.xyz/resume) · [linkedin](https://www.linkedin.com/in/sagar-bera) · [x / @0xSagar_](https://x.com/0xSagar_) · [contact.sagarbera@gmail.com](mailto:contact.sagarbera@gmail.com)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/waves-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/waves-light.svg">
+  <img alt="ASCII ocean waves rolling past, the water written out in words from Sagar's stack" src="./assets/waves-dark.svg" width="100%">
+</picture>
 
 <div align="center">
-<sub>the planet above is ~350 kb of plain svg, no javascript, rendered from a tiny ray tracer.</sub>
+<sub>everything moving on this page is plain svg. no js, no gifs, just vibes and a tiny ray tracer.</sub>
 </div>
